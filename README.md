@@ -20,7 +20,7 @@
 
 - I'm a Full Stack Developer currently working at [PrixTech](https://prix.tech/)
 - My main interests are React and React Native
-- I'm majoring in Computer Science 
+- I have a degree in Computer Science 
 - My favorite movie is V for Vendetta
 - I like to play games (Add me on [Steam](https://steamcommunity.com/id/britto52/))
 
