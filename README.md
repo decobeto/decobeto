@@ -19,7 +19,6 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About me
 
 - I'm a Full Stack Developer currently working at [PrixTech](https://prix.tech/)
-- My main interests are React and React Native
 - I have a degree in Computer Science 
 - My favorite movie is V for Vendetta
 - I like to play games (Add me on [Steam](https://steamcommunity.com/id/britto52/))
