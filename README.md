@@ -1,16 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jVAt83ieT49H6ja5Ty/giphy.gif" width="400"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/andr%C3%A9-roberto-alves-de-oliveira-29101b1a7/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/deco_beto/">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-    </a>
-    <a href="https://twitter.com/deco_beto">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
   <h1>
     Hi, I'm André Roberto 👋
   </h1>
